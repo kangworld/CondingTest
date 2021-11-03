@@ -3,6 +3,7 @@
 #include <algorithm>
 
 using namespace std;
+
 vector<int> answer;
 vector<int> numbers;
 
