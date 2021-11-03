@@ -34,7 +34,7 @@
 
 [프로그래머스](https://github.com/kangworld/CondingTest/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)<br />
 ├── [Level 1](https://github.com/kangworld/CondingTest/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level%201)<br />
-├── Level 2 <br />
+├── [Level 2](https://github.com/kangworld/CondingTest/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level%202)<br />
 ├── Level 3 <br />
 ├── Level 4 <br />
 └── Level 5 <br />
